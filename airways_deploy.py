@@ -187,7 +187,8 @@ cormack_lehane = clf.predict(X_test)
 
 Do not allow nulls here:
     
-["sex", "edentulous",
+["mallampatti", "age", "sex", "bmi", "strenomental diatnce", "buck teeth",
+ "height", "thromental distance", "edentulous",
  "mouth opening", "head and neck movement"]
 
 
