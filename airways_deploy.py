@@ -1,4 +1,4 @@
-# Last amended: 21st May, 2025
+# Last amended: 22nd May, 2025
 
 # File: airways_deploy.py
 # Original file is located at
@@ -184,6 +184,11 @@ cormack_lehane = clf.predict(X_test)
 1=>2
 2=>3
 3=>4
+
+Do not allow nulls here:
+    
+["sex", "edentulous",
+ "mouth opening", "head and neck movement"]
 
 
 """
